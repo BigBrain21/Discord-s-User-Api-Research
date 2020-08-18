@@ -11,10 +11,11 @@ headers = {"Authorization": "your token"}<br />
 Join Server/Guild
 -
 Method: POST<br />
-https://discordapp.com/api/v8/invites/invite_code<br />
+https://discordapp.com/api/v8/invites/{invite_code}<br />
 headers = {"Authorization": "your token"}<br />
 
 Leave Server/Guild
 -
 Method: DELETE<br />
-https://discordapp.com/api/v8/users/@me/guilds/{guild_id}
+https://discordapp.com/api/v8/users/@me/guilds/guild_id<br />
+headers = {"Authorization": "your token"}<br />
