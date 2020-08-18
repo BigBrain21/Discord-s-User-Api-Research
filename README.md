@@ -5,5 +5,5 @@ Set user status
 ------------------------------------------
 PATCH<br />
 https://discordapp.com/api/v8/users/@me/settings<br />
-json = {"custom_status":{"text": "<custom status>"}}<br />
-headers = {"Authorization": "<your token>"}<br />
+json = {"custom_status":{"text": "custom status"}}<br />
+headers = {"Authorization": "your token"}<br />
