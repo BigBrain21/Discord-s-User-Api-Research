@@ -1,7 +1,7 @@
 If you would like me to add a method in here, simply make a new issue and tell me what feature you would like documented.
 
 
-Set user custom status
+Set User Custom Status
 -
 Method: PATCH<br />
 https://discordapp.com/api/v8/users/@me/settings<br />
